@@ -1,0 +1,10 @@
+# Site settings
+title: Hazel Gifford
+email: me@matthewgifford.com
+description: "Hazel Gifford"
+baseurl: ""
+url: "http://hazelgifford.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
